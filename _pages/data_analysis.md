@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Data Analysis"
-permalink: /data_anlysis/
+permalink: /data_analysis/
 author_profile: true
 ---
 
