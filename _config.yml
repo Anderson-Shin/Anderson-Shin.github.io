@@ -148,7 +148,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  statistics:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -182,10 +182,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _statistics
   - scope:
       path: ""
-      type: teaching
+      type: statistics
     values:
       layout: single
       author_profile: true
