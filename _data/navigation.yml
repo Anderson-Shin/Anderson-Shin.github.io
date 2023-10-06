@@ -3,8 +3,8 @@ main:
   - title: "Finance"
     url: /finance/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Data Analysis"
+    url: /data_analysis/    
 
   - title: "Statistics"
     url: /statistics/    

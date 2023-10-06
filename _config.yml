@@ -154,7 +154,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  data_analysis:
     output: true
     permalink: /:collection/:path/
   finance:
@@ -209,10 +209,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _data_analysis
   - scope:
       path: ""
-      type: talks
+      type: data_analysis
     values:
       layout: talk
       author_profile: true
