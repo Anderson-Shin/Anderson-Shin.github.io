@@ -1,11 +1,10 @@
-
 ---
-title: "data1"
-collection: Finance
+title: "Fundamental definitions"
+collection: finance
 permalink: /finance/fundamental_definitions
-excerpt: 'Fundamental definitions for stock market'
+excerpt: 'Fundamental definitions to understand stock markt flow'
 date: 2023-09-01
-venue: 'Fiannce post 1'
+venue: 'Finance post 1'
 ---
 # Fundamental definitions
 
