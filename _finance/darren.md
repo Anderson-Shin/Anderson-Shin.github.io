@@ -6,7 +6,6 @@ excerpt: 'Fundamental definitions to understand stock markt flow'
 date: 2023-09-01
 venue: 'Finance post 1'
 ---
-# Fundamental definitions
 
 ## 1.1 Stock
 
