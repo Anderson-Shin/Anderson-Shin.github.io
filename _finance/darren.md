@@ -1,13 +1,11 @@
 
 ---
-title: "Fundamental financial definitions"
-collection: finance
-permalink: /finance/2023-09-01-fundamental definitions
-excerpt: 'Key definitions of stock markets'
-venue: "finance"
+title: "data1"
+collection: Finance
+permalink: /finance/fundamental_definitions
+excerpt: 'Fundamental definitions for stock market'
 date: 2023-09-01
-location: ""
-
+venue: 'Fiannce post 1'
 ---
 # Fundamental definitions
 
