@@ -2,7 +2,7 @@
 title: "Types of return and its normality"
 collection: finance
 permalink: /finance/stock_valuation
-excerpt: 'Basic concept of stock valuation'
+excerpt: 'return and its normality'
 date: 2023-09-18
 venue: 'Finance post 5'
 ---
@@ -53,7 +53,7 @@ $R_t(k)= \frac{P_t}{P_{t-1}}\times \frac{P_{t-1}}{P_{t-2}}\times \frac{P_{t-2}}{
     - Continuous compounding $(m\to \infin)$
     - Initial value $A = P_{t-1}$
     - Interest rate $R = r_t \space\space for \space period(t-1,t)$
-    - Future value $P_t = \lim_{m\to\infin}\space P_{t-1}(1+\frac{r_t}{m})^m\space=P_{t-1}\cdot e^{r_t}$
+    - Future value $P_t = \lim_{m\to \infin}\space P_{t-1}(1+\frac{r_t}{m})^m\space=P_{t-1}\cdot e^{r_t}$
     - therefore; interest rate ; $r_t=ln(P_t)-ln(P_{t-1})$
 
 - Remark
