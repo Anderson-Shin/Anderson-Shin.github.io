@@ -10,7 +10,7 @@ venue: 'Finance post 2'
 
 - Stock Valuationation model is a mechanism that converts a set of forecasts of a series of company and economic variables into a forecast of market value for the company’s stock.
 - Dividend Discount Model (DDM) or Gordon Model
-    - Intrinsic Value(고유가치) $V_0$ : Present Value (PV) of all cash payments from the stock, including dividends and the proceeds from the ultimate sale of the stock, discounted at an appropriate risk-adjusted interest rate  $k$, called Market Capitalization Rate 시가총액률.
+    - Intrinsic Value $V_0$ : Present Value (PV) of all cash payments from the stock, including dividends and the proceeds from the ultimate sale of the stock, discounted at an appropriate risk-adjusted interest rate  $k$, called Market Capitalization Rate.
     
     $$
     V_0 = \frac{D_1}{1+k} + \frac{P_1}{1+k}
