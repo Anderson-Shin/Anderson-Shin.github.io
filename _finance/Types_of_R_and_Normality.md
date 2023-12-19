@@ -6,7 +6,6 @@ excerpt: 'Basic concept of stock valuation'
 date: 2023-09-18
 venue: 'Finance post 5'
 ---
-# Types of return and normality
 
 ## simple interest
 
@@ -92,13 +91,13 @@ A higher variance means higher in total risk exposure and standard deviation is 
 
 ## Some Probability models of return
 
-**********************************Model 1 : Normal Distribution**********************************
+Model 1 : Normal Distribution
 
-- ************limitation************
+- **limitation**
 1. It does not guarantee that $R_t\ge-1$
 2. Sum of $i.d.d$ normal distributions follows Normal distribution but the product of $i.d.d$ Normal distributions does not follow Normal distribution.
 
-************Model 2: Log-Normal Distribution************
+**Model 2: Log-Normal Distribution**
 
 $r_t=ln(1+R_t)\sim N(\mu,\sigma^2)$
 
@@ -111,12 +110,12 @@ $r_t=ln(1+R_t)\sim N(\mu,\sigma^2)$
 
 - Skewness measures the symmetry of distribution
 - $Skew(X) = \gamma=E(Z^3), where \space Z=\frac{X-\mu}{\sigma}$
-- $Skew(X)> 0\leftrightarrow$ **************************long right tail**************************
-- $Skew(X)< 0\leftrightarrow$ ****************************long left tail****************************
+- $Skew(X)> 0\leftrightarrow$ **long right tail**
+- $Skew(X)< 0\leftrightarrow$ **long left tail**
 - Kurtosis measure tail thickness or peakedness
 - $Kurt(X)=\delta=E(Z^4), where \space Z=\frac{X-\mu}{\sigma}$
-- ****Large $Kurt(X)\rightarrow$ Fat tails**
-- Small $Kurt(X)\rightarrow$ ********************Thin tails********************
+- **Large $Kurt(X)\rightarrow$ Fat tails**
+- Small $Kurt(X)\rightarrow$ **Thin tails**
 
 ## Jarque-Bera Normality Test
 
