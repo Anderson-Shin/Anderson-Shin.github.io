@@ -1,7 +1,7 @@
 ---
 title: "Types of return and its normality"
 collection: finance
-permalink: /finance/stock_valuation
+permalink: /finance/return and its normality
 excerpt: 'return and its normality'
 date: 2023-09-18
 venue: 'Finance post 5'
