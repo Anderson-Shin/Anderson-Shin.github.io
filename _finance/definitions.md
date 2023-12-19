@@ -2,7 +2,7 @@
 title: "Terms in economics"
 collection: finance
 permalink: /finance/definitions
-excerpt: 'definitions'
+excerpt: 'Definitions in economic world'
 date: 2023-09-20
 venue: 'Finance post 6'
 ---
