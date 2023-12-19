@@ -37,6 +37,8 @@ plt.show()
 
 ![Daily%20return%20times%20series.png](https://github.com/Anderson-Shin/anderson-shin.github.io/blob/master/images/Daily%20return%20times%20series.png?raw=true)
 
+By using yfinance library, extract the closed price data of the stock. And plot the rate of return time series.
+
 ```python
 # Plot the histogram of returns and the normal distribution.
 plt.figure(figsize=(14, 7))
@@ -54,6 +56,8 @@ plt.show()
 ```
 
 ![Normal%20distribution%20fit.png](https://github.com/Anderson-Shin/anderson-shin.github.io/blob/master/images/Normal%20distribution%20fit.png?raw=true)
+
+By using matplotlib library, plot histogram of rate of return. By naive intuition, we might assume that the rate of return is following normal distribution as it is approximately bell-shape. 
 
 ```python
 # Conduct the Jarque-Bera test
@@ -73,5 +77,9 @@ else:
     print("The JB statistic is less than the chi-squared statistic. We fail to reject the null hypothesis.")
 
 ```
+Result:
+JB statistic: 2464.3065520124833, p-value: 0.0
+Chi-squared statistic at 95% confidence level: 5.991464547107979
+The JB statistic is greater than the chi-squared statistic. We reject the null hypothesis.
 
-![Normal%20Q-Q%20Plot.png](https://github.com/Anderson-Shin/anderson-shin.github.io/blob/master/images/Normal%20Q-Q%20Plot.png?raw=true)
+**By Jareque-Bera test, we can confirm that the rate of return of Microsoft is not following the normal distribution.**
