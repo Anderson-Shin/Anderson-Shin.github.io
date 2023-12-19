@@ -1,4 +1,11 @@
-/Users/mino/Desktop/깃헙블로그/posts/Data science/normality test/Daily return times series.png
+---
+title: "Normality testing "
+collection: data_analysis
+permalink: /data_analysis/yfinance_tutorial_2
+excerpt: 'Application of python libraries'
+date: 2023-09-19
+venue: 'data anlaysis post 2'
+---
 
 # Normality testing using python
 
