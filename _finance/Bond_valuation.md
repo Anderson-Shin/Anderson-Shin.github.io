@@ -3,7 +3,7 @@ title: "Valuation of bond price at its maturity"
 collection: finance
 permalink: /finance/bond_valuation
 excerpt: 'Outlook for bond price value method'
-venue: "finance"
+venue: "Finance post 3"
 date: 2023-09-10
 location: ""
 

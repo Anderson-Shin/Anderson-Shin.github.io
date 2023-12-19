@@ -3,7 +3,7 @@ title: "How do we procced trading?"
 collection: finance
 permalink: /finance/trade_method
 excerpt: 'Several ways of trading in a stock market'
-venue: "finance"
+venue: "Finance post 4"
 date: 2023-09-12
 location: ""
 ---
