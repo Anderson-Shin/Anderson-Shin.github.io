@@ -2,7 +2,7 @@
 title: "Normality testing "
 collection: data_analysis
 permalink: /data_analysis/yfinance_tutorial_2
-excerpt: 'Application of python libraries'
+excerpt: 'Normality testing under Jarque-Bera Test using python'
 date: 2023-09-19
 venue: 'data anlaysis post 2'
 ---
