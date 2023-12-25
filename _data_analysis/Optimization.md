@@ -2,7 +2,7 @@
 title: "Optimization of portfolio 1"
 collection: data_analysis
 permalink: /data_analysis/yfinance_tutorial_3
-excerpt: 'Application of python libraries'
+excerpt: 'Optimization of portfolio when short sale is not allowed using python. And aslo allocation of riksy assets and risk-free assets in the targeting portfolio'
 date: 2023-09-22
 venue: 'data anlaysis post 3'
 ---
