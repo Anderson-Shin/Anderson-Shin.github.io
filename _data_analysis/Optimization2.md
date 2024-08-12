@@ -124,7 +124,7 @@ print("Weights for stocks: ", weights_target_risk)
 print("Weights for risk-free asset: ", weights_target_risk_rf)
 ```
 
-![short_input.png](https://github.com/Anderson-Shin/anderson-shin.github.io/blob/master/images/short_input.png?raw=True)
+![Short_input.png](https://github.com/Anderson-Shin/anderson-shin.github.io/blob/master/images/short_input.png?raw=True)
 
 Following from the previous post, we shall continue with optimization of portfolio when short sale is allowed.  Above inputs are exactly same as previous post.
 
